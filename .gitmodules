@@ -1,0 +1,6 @@
+[submodule "workshops/databricks/2020/mlflow-workshop-part-1"]
+	path = workshops/databricks/2020/mlflow-workshop-part-1
+	url = https://github.com/dimitarpg13/mlflow-workshop-part-1.git
+[submodule "workshops/databricks/2020/mlflow-workshop-part-2"]
+	path = workshops/databricks/2020/mlflow-workshop-part-2
+	url = https://github.com/dimitarpg13/mlflow-workshop-part-2.git
